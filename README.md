@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Daud
 
-<!--
-**daudkhan06/daudkhan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st Year Computer Science student at the University of Manchester.
 
-Here are some ideas to get you started:
+Currently focused on building practical skills in:
+- Web development (JavaScript, APIs, backend fundamentals)
+- Java (OOP, problem solving)
+- Core computer science concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Tech (learning & using)
+
+- HTML, CSS
+- JavaScript (in progress)
+- Java
+- SQL (learning)
+- Git & GitHub
+
+---
+## 📫 Contact
+
+- Email: daud.khan@student.manchester.ac.uk
+
+---

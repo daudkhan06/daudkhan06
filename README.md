@@ -1,6 +1,6 @@
 ## Hey, I'm Daud
 
-Second-year Computer Science student at the University of Manchester, interested in software engineering, backend systems, and how software works under the hood.
+Second-year Computer Science student at the University of Manchester, interested in software engineering, backend systems, and OS fundamentals
 
 I enjoy building practical projects, learning new technologies, and developing a deeper understanding of the systems that power modern applications.
 

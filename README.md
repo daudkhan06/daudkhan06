@@ -24,6 +24,6 @@ Currently focused on building practical skills in:
 ---
 ## Portfolio Website
 
-https://daud-portfolio-seven.vercel.app/
+daudk.me
 
 ---

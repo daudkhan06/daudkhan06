@@ -24,6 +24,6 @@ Currently focused on building practical skills in:
 ---
 ## Portfolio Website
 
-daudk.me
+www.daudk.me
 
 ---

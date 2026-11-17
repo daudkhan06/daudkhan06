@@ -26,7 +26,7 @@ More projects and details are available on my [portfolio](https://daudk.me).
 
 ### Tech
 
-**Languages:** Java · C · C++ · Go · Python · TypeScript · JavaScript
+**Languages:** Java · C · C++ · Go · Python · TypeScript · JavaScript · SQL
 
 **Web:** React · Next.js · SolidStart · HTML · CSS · Tailwind CSS
 
